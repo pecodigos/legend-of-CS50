@@ -1,6 +1,6 @@
 # Legend of CS50
 ### Video Demo: [Legend of CS50 - YouTube](https://www.youtube.com/watch?v=RwlyM2zbD_g)
-# Description
+## Description
 
 Legend of CS50 is an **8-bit-like**, **2D** and **turn-based RPG game** made in **LÖVE2D**. Initially, I wanted this game to have multiple stages or levels, but then, after listening to what **Guy White** had to say about a long first-time game I changed my mind on that, and the game got a lot shorter.
 
