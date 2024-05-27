@@ -118,7 +118,7 @@ The game is turn-based. After you select an action, your turn is automatically p
 ### Duck's sprites:
 
 - Idle Duck: ***DUCK1.png***;
-- Attacking ***Duck: DUCK2.png**;
+- Attacking ***Duck: DUCK2.png***;
 - Hurt Duck: ***DUCK3.png***.
 
 ### Main screen stage sprites:
